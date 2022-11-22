@@ -8,4 +8,4 @@
 
 ![buzz1](https://user-images.githubusercontent.com/103700322/203435662-0896f2a1-1825-47ac-92b6-cd26a83c7d73.png)
 
-> ### **você pode ir direto ao site clicando [AQUI](https://yagoferre.github.io/angular-buzz/).**
+> ### **Você pode ir direto ao site clicando [AQUI](https://yagoferre.github.io/angular-buzz/).**
